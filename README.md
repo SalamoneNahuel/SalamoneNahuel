@@ -1,6 +1,6 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1710867267/91290/blob-hi.png?1710867267" width="30"/> ɪ'ᴍ ɴᴀʜᴜᴇʟ! 
-*Data Enthusiast/Techno Lover*
+*Data Enthusiast/Technology Lover*
 <br /> 
 
 <!--Start Intro-->               
