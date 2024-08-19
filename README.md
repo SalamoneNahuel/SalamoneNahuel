@@ -4,12 +4,12 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Data Scientist taking my first steps in the industry.</p>
+<p align="left">I am a Data Scientist with a strong interest in Analytics and Machine Learning, passionate about comprehending the human mind and history, learning from the past to understand the present and prepare for the future.</p>
 
-- ✨ Interested in a broad range of topics, from psychology to programming.
-- 🌱 Passionate about learning and excited for the future, especially in AI. I can't wait to be part of it.
+- ✨ I am eager to take my first steps as a professional in the world of technology and data.
+- 🎓 In addition to Data Science, I studied Psychology and am beginning my career in Systems Engineering.
+- 🌱 In love with learning and excited about what lies ahead, I find the development of AI fascinating and can't wait to be part of its future advancements.
 - 🏙 Currently working on personal projects. Feel free to contact me for any learning or working opportunities!
-
 <!--End Intro-->
 ---
 <br />
